@@ -1,0 +1,5 @@
+psutil
+py-cpuinfo
+pynvml
+PySide6
+WMI
