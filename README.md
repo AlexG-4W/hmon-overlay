@@ -6,6 +6,7 @@ A lightweight, customizable, and transparent system resource monitor for Windows
 ![Python](https://img.shields.io/badge/python-3.8+-brightgreen.svg)
 
 ## Features
+![scr1](https://github.com/user-attachments/assets/36d25c11-3d10-4427-baea-a768dc7bc23b)
 
 - **Real-time Monitoring**: Tracks CPU frequency, RAM usage/speed, and GPU clock/VRAM.
 - **Always on Top**: Transparent overlay that doesn't interfere with your workflow.
